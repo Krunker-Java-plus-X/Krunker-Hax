@@ -19,5 +19,3 @@ Auto Relord ❌
 Auto Fire ❌
 
 Sorry I didn't work for Java Script so Maybe I can't fix Script Aimbot in this version
-
-Photo:
