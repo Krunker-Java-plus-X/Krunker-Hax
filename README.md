@@ -2,7 +2,7 @@
 Krunker hax
 Paste in Tampermonky!!
 
-Script Hack Function
+Tampermonky Script Hack Function
 
 AIMBOT ❌
 
