@@ -4,6 +4,8 @@ Paste in Tampermonky!!
 
 Tampermonky Script Hack Function
 _________________________________
+Krunker ESP 2.5.2 ✔️
+_________________________________
 - AIMBOT ❌
 
 - WallHack ✅
