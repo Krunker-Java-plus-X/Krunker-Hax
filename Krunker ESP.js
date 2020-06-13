@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker NameTags
 // @namespace    GOD CHEAT
-// @version      2.5.1
+// @version      2.5.2
 // @description  Why am I able to see names through walls
 // @author       JA plus X
 // @match        *://krunker.io/*
